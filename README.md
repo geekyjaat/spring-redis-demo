@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/geekyjaat/spring-redis-demo.svg?branch=master)](https://travis-ci.org/geekyjaat/spring-redis-demo)
+
 # Spring Redis Demo
 
 ## Technologies used
